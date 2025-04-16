@@ -1,7 +1,7 @@
 # 🔥 U.S. Wildfire Trends & Risk Visualization Project
 
 ## 🧠 Project Objective
-This project explores wildfire trends in the United States to understand:
+This project uses data over the past year to explore wildfire trends in the United States to understand:
 - When wildfires are most likely to occur (seasonal patterns)
 - Which states and regions are most affected
 - The overall impact in terms of frequency, damage, and potential risk
